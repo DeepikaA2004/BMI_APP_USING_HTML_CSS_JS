@@ -1,4 +1,14 @@
 # BMI_APP_USING_HTML_CSS_JS
-Developing the BMI calculator as a web application using HTML,CSS, JAVASCRIPT
+Developing the BMI calculator as a web application using HTML, CSS, JAVASCRIPT
 
+# OUTPUT FOR NORMAL WEIGHT
+![normal weight](https://github.com/DeepikaA2004/BMI_APP_USING_HTML_CSS_JS/assets/110418508/f8773b7f-0d49-44dc-93f5-01926b516fcc)
 
+# OUTPUT FOR OBESE
+![obese](https://github.com/DeepikaA2004/BMI_APP_USING_HTML_CSS_JS/assets/110418508/4954e6af-9e6a-49c0-ac4e-2365345f13fd)
+
+# OUTPUT FOR OVERWEIGHT
+![overweight](https://github.com/DeepikaA2004/BMI_APP_USING_HTML_CSS_JS/assets/110418508/741a8d30-5013-4055-99ef-b69c726c9a85)
+
+# OUTPUT FOR ENTERING VALID WEIGHT AND HEIGHT
+![VALID](https://github.com/DeepikaA2004/BMI_APP_USING_HTML_CSS_JS/assets/110418508/3a580bc2-2568-4a1b-a67d-e20811120858)
